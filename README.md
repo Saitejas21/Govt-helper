@@ -1,4 +1,4 @@
-![Bot Image](https://github.com/Saitejas21/sarkaarsamjho/blob/main/logo/Designer%20(1).png)
+![Bot Image](https://github.com/Saitejas21/sarkaarsamjho/blob/main/logo/Designer%20(1).png){: style="width:300px;height:300px"}
 
 
 # SarkaarSamjho: Understand Government Policies Easily
