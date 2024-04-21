@@ -1,3 +1,6 @@
+![Bot Image](https://github.com/Saitejas21/sarkaarsamjho/blob/main/logo/Designer%20(1).png =200x200)
+
+
 # SarkaarSamjho: Understand Government Policies Easily
 
 This is SarkaarSamjho, your friend who will help you understand government policies and rules. Think of it as a friend who explains heavy government rules and policies to you in simple language. That's what SarkaarSamjho does - a chatbot that understands your language and makes government rules and policies easy for you to understand.
